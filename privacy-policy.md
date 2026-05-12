@@ -19,4 +19,4 @@ kullanılır ve hiçbir sunucuya gönderilmez.
 - **storage:** Kullanıcı tercihlerini yerel olarak saklamak için
 
 ## İletişim
-Sorularınız için: [e-posta adresiniz]
+Sorularınız için: [egemenozdemirr@gmail.com]
